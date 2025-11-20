@@ -24,6 +24,25 @@ The project demonstrates proficiency in:
 
 ---
 
+## 📊 Visualization
+
+- Designed column, line, and pie charts to communicate patterns clearly  
+- Used dynamic ranges and labels to improve chart accuracy and readability
+
+<img width="431" height="189" alt="image" src="https://github.com/user-attachments/assets/8ddf8072-061b-43d0-b833-57bd481ab812" />
+
+
+<img width="2004" height="674" alt="image" src="https://github.com/user-attachments/assets/4c8f9e72-16ff-4e3f-9f03-58548494f21a" />
+
+<img width="671" height="275" alt="image" src="https://github.com/user-attachments/assets/24300f13-5471-490d-9b5f-3ea586b5fbc5" />
+
+<img width="1902" height="594" alt="image" src="https://github.com/user-attachments/assets/154307cb-6076-428a-9594-3e7dc664516e" />
+
+<img width="373" height="186" alt="image" src="https://github.com/user-attachments/assets/71d08042-e24e-4f68-8801-f0971835fa1b" />
+
+<img width="1189" height="593" alt="image" src="https://github.com/user-attachments/assets/90797d07-46c0-4b8d-85e0-d5bebb4b2721" />
+
+
 ## 📌 Data Cleaning & Preparation
 
 Key steps included:
@@ -39,12 +58,5 @@ Key steps included:
 - Created calculated columns for deeper insights  
 - Built summary tables for quick interpretation and decision-making  
 
----
 
-## 📊 Visualization
-
-- Designed column, line, and pie charts to communicate patterns clearly  
-- Used dynamic ranges and labels to improve chart accuracy and readability  
-
----
 This project strengthened my ability to analyze data using Excel’s core functions, build organized spreadsheets, and present insights visually.  
