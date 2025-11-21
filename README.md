@@ -58,3 +58,4 @@ Key steps included:
 - Presenting insights in a professional and reproducible way  
 
 This project strengthened my ability to analyze data using Excel’s core functions, build organized spreadsheets, and present insights visually.  
+---
