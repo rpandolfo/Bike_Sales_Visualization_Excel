@@ -14,14 +14,6 @@ The dataset contains transactional sales records combining:
 - Financial metrics  
 
 Overall, it provides a complete view of customer profiles and purchasing behavior, enabling detailed analysis of sales performance and profitability.
-
-The project demonstrates proficiency in:
-
-- Cleaning and preparing raw data  
-- Building summary tables  
-- Creating clear and effective charts  
-- Presenting insights in a professional and reproducible way  
-
 ---
 
 ## 📊 Visualization
@@ -58,5 +50,11 @@ Key steps included:
 - Created calculated columns for deeper insights  
 - Built summary tables for quick interpretation and decision-making  
 
+The project demonstrates proficiency in:
+
+- Cleaning and preparing raw data  
+- Building summary tables  
+- Creating clear and effective charts  
+- Presenting insights in a professional and reproducible way  
 
 This project strengthened my ability to analyze data using Excel’s core functions, build organized spreadsheets, and present insights visually.  
